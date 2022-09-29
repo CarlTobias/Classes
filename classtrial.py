@@ -31,3 +31,5 @@ now = datetime.now()
 print("It is now", now, "in your area.")
 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 print("Date and Time:", dt_string)
+
+print("hi.")
