@@ -1,3 +1,5 @@
+# note: this file is rough notes...
+# it may not be complete, or look messy, but this is just a preview of how i learn practically
 
 # we are gonna use the "in" and "not in" operators
 
@@ -61,9 +63,6 @@ snacks.insert(3, "dairy milk")
 snacks.insert(1, "toblerone")
 
 # the extra commands here let us print the whole list while capitalizing them so that we dont have to individually input them
-
-# note: this file is rough notes...
-# it may not be complete, or look messy, but this is just a preview of how i learn practically
 
 snacks = [each_string.title() for each_string in snacks]
 print("My favourite chocolate snacks:")
