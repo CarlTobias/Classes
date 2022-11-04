@@ -1,3 +1,6 @@
+# note: this file is rough notes...
+# it may not be complete, or look messy, but this is just a preview of how i learn practically
+
 # trying out valid variable names
 from ctypes.wintypes import PINT
 

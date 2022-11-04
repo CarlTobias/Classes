@@ -1,3 +1,6 @@
+# note: this file is rough notes...
+# it may not be complete, or look messy, but this is just a preview of how i learn practically
+
 # October 20, 2022
 
 # Revision of if-else statements

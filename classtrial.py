@@ -1,3 +1,6 @@
+# note: this file is rough notes...
+# it may not be complete, or look messy, but this is just a preview of how i learn practically
+
 print("Try not to cry,")
 print("I won't say goodbye")
 print("Just yet...")
